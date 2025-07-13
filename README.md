@@ -1,6 +1,5 @@
-# Understanding-Obsessive-Compulsive-Disorder-OCD-Trends-A-Data-Analysis
-Explore trends related to OCD using a dataset collected from various sources.  Resources  Readme
 # Understanding Obsessive-Compulsive Disorder (OCD) Trends with Data Analysis
+Explore trends related to OCD using a dataset collected from various sources.  Resources  Readme
 
 ![Causes-of-OCD image resize](https://github.com/TeniOT/Understanding-Obsessive-Compulsive-Disorder-OCD-Trends-A-Data-Analysis/assets/164643376/1a08941d-5635-463c-8e65-9d53e8264732)
 
